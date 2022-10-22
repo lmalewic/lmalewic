@@ -4,4 +4,4 @@
 - 🖥  I'm currently working on becoming a Software Engineer.
 - 👀  I’m interested in learning new skills and working with people to achieve my goals. 
 - 🌱  I’m currently learning Javascript and HTML.
-- 📫 How to reach me at lmalewic@gmail.com
+- 📫 You can reach me at lmalewic@gmail.com
